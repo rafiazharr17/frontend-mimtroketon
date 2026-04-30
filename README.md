@@ -81,7 +81,7 @@ Frontend Sistem Informasi Manajemen Sekolah **MI Muhammadiyah Troketon**, dibang
 ### 1. Clone & Install Dependensi
 
 ```bash
-git clone <url-repository>
+git clone https://github.com/rafiazharr17/frontend-MIMTroketon.git
 cd frontend
 npm install
 ```
